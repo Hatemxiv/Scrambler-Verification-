@@ -1,0 +1,24 @@
+D:/Verif/ZC_pjct/uvm/scr_top.sv {1 {vlog -work work -vopt -sv -stats=none D:/Verif/ZC_pjct/uvm/scr_top.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module scr_top
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package scr_pkg
+
+Top level modules:
+	scr_top
+
+} {} {}} D:/Verif/ZC_pjct/uvm/scr_if.sv {1 {vlog -work work -vopt -sv -stats=none D:/Verif/ZC_pjct/uvm/scr_if.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling interface scr_if
+
+Top level modules:
+	--none--
+
+} {} {}} D:/Verif/ZC_pjct/uvm/IP_BBScrambler.vp {1 {vlog -work work -vopt -stats=none D:/Verif/ZC_pjct/uvm/IP_BBScrambler.vp
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module BB_scrambler
+
+Top level modules:
+	BB_scrambler
+
+} {} {}}
